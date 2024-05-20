@@ -158,3 +158,29 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+/BEP AP/C2H6
+/BEP AP/bin file
+/BEP AP/C3H8
+/BEP AP/CH4
+/BEP AP/CO2
+/BEP AP/Data
+/BEP AP/Figures
+/BEP AP/H2
+/BEP AP/Handige screenshots
+/BEP AP/Progress presentations
+/BEP AP/saved_results
+/BEP AP/test_c2h6
+/BEP AP/test_c3h8
+/BEP AP/test_ch4
+/BEP AP/test_h2
+BEP AP/simulations_bep2
+.DS_Store
+BEP AP/.DS_Store
+BEP AP/Create files CH4 and H2 v2.0.ipynb
+BEP AP/get_hoa.sh
+BEP AP/GNN ML.ipynb
+BEP AP/heat_maps.ipynb
+BEP AP/pytorch_scatter-1.2.0.tar.gz
+BEP AP/qm7.mat
+BEP AP/zeolite.py
+BEP AP/test.ipynb
